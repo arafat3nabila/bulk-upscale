@@ -1,0 +1,6 @@
+{
+  "name": "Crystal Clear PNG Upscaler",
+  "description": "Mobile-first batch PNG image upscaler with transparency preservation, 2x and 4x AI scaling, before/after comparison, and Hugging Face ZeroGPU Gradio integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
